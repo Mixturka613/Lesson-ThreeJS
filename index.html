@@ -13,10 +13,10 @@
     </style>
     <div class="container"></div>
     <script src="three.js"></script>
-    <script src="GLTFLoader.js"></script>
     <script type="module">
 
         import { OrbitControls } from 'https://cdn.jsdelivr.net/npm/three@0.121.1/examples/jsm/controls/OrbitControls.js'
+        import { GLTFLoader } from './three.js-master/examples/jsm/loaders/GLTFLoader.js'
 
         let scene;
         let camera;
@@ -67,7 +67,7 @@
             scene.add(light4)
 
             //model
-            const loader = new THREE.GLTFLoader();
+            const loader = new GLTFLoader();
             loader.load('./model/scene.gltf', gltf => {
                 scene.add(gltf.scene);
             }, 

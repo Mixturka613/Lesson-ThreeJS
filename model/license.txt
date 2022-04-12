@@ -1,11 +1,11 @@
 Model Information:
-* title:	iPhone 12 Pro
-* source:	https://sketchfab.com/3d-models/iphone-12-pro-3a77a46585a7401488fd9be26fd912cd
-* author:	TAIGA-ZOE (https://sketchfab.com/TAIGA-ZOE)
+* title:	Apple iPhone 13 Pro Max
+* source:	https://sketchfab.com/3d-models/apple-iphone-13-pro-max-4328dea00e47497dbeac73c556121bc9
+* author:	DatSketch (https://sketchfab.com/DatSketch)
 
 Model License:
-* license type:	CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
-* requirements:	Author must be credited. No commercial use.
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
 
 If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
-This work is based on "iPhone 12 Pro" (https://sketchfab.com/3d-models/iphone-12-pro-3a77a46585a7401488fd9be26fd912cd) by TAIGA-ZOE (https://sketchfab.com/TAIGA-ZOE) licensed under CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
+This work is based on "Apple iPhone 13 Pro Max" (https://sketchfab.com/3d-models/apple-iphone-13-pro-max-4328dea00e47497dbeac73c556121bc9) by DatSketch (https://sketchfab.com/DatSketch) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
